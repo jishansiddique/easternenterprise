@@ -1,0 +1,10 @@
+E:\Projects\CalcProgram\CalcProgram\CalcProgram\bin\Release\calculator.exe.config
+E:\Projects\CalcProgram\CalcProgram\CalcProgram\bin\Release\calculator.exe.manifest
+E:\Projects\CalcProgram\CalcProgram\CalcProgram\bin\Release\calculator.application
+E:\Projects\CalcProgram\CalcProgram\CalcProgram\bin\Release\calculator.exe
+E:\Projects\CalcProgram\CalcProgram\CalcProgram\bin\Release\calculator.pdb
+E:\Projects\CalcProgram\CalcProgram\CalcProgram\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+E:\Projects\CalcProgram\CalcProgram\CalcProgram\obj\Release\calculator.exe.manifest
+E:\Projects\CalcProgram\CalcProgram\CalcProgram\obj\Release\calculator.application
+E:\Projects\CalcProgram\CalcProgram\CalcProgram\obj\Release\calculator.exe
+E:\Projects\CalcProgram\CalcProgram\CalcProgram\obj\Release\calculator.pdb

@@ -1,0 +1,6 @@
+E:\Projects\CalcProgram\CalcProgram\CalcProgram\bin\Debug\CalcProgram.exe.config
+E:\Projects\CalcProgram\CalcProgram\CalcProgram\bin\Debug\CalcProgram.exe
+E:\Projects\CalcProgram\CalcProgram\CalcProgram\bin\Debug\CalcProgram.pdb
+E:\Projects\CalcProgram\CalcProgram\CalcProgram\obj\Debug\CalcProgram.csproj.CoreCompileInputs.cache
+E:\Projects\CalcProgram\CalcProgram\CalcProgram\obj\Debug\CalcProgram.exe
+E:\Projects\CalcProgram\CalcProgram\CalcProgram\obj\Debug\CalcProgram.pdb
