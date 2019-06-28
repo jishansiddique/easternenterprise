@@ -1,0 +1,17 @@
+E:\Projects\TestCase\Task2\calculator\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Projects\TestCase\Task2\calculator\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Projects\TestCase\Task2\calculator\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Projects\TestCase\Task2\calculator\UnitTestProject\bin\Debug\UnitTestProject.dll
+E:\Projects\TestCase\Task2\calculator\UnitTestProject\bin\Debug\UnitTestProject.pdb
+E:\Projects\TestCase\Task2\calculator\UnitTestProject\bin\Debug\calculator.exe
+E:\Projects\TestCase\Task2\calculator\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Projects\TestCase\Task2\calculator\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Projects\TestCase\Task2\calculator\UnitTestProject\bin\Debug\calculator.pdb
+E:\Projects\TestCase\Task2\calculator\UnitTestProject\bin\Debug\calculator.exe.config
+E:\Projects\TestCase\Task2\calculator\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Projects\TestCase\Task2\calculator\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Projects\TestCase\Task2\calculator\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+E:\Projects\TestCase\Task2\calculator\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+E:\Projects\TestCase\Task2\calculator\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+E:\Projects\TestCase\Task2\calculator\UnitTestProject\obj\Debug\UnitTestProject.dll
+E:\Projects\TestCase\Task2\calculator\UnitTestProject\obj\Debug\UnitTestProject.pdb
